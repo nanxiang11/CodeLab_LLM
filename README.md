@@ -146,5 +146,5 @@ pip install -r requirements.txt
 
 ## Star History
 
-
+![Star History](https://api.star-history.com/svg?repos=nanxiang11/CodeLab_LLM&type=Date&r=12345)
 
