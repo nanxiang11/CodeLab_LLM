@@ -143,3 +143,8 @@ pip install -r requirements.txt
 📄 查看完整协议：  
 👉 [https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans)
 
+
+## Star History
+![Star History](https://api.star-history.com/svg?repos=nanxiang11/CodeLab_LLM&type=Date)
+
+
