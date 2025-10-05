@@ -146,5 +146,5 @@ pip install -r requirements.txt
 
 ## Star History
 
-![Star History](https://api.star-history.com/svg?repos=nanxiang11/CodeLab_LLM&type=Date&r=12345)
+[![Star History Chart](https://api.star-history.com/svg?repos=nanxiang11/CodeLab_LLM&type=Date)](https://www.star-history.com/?utm_source=chatgpt.com#nanxiang11/CodeLab_LLM&Date)
 
