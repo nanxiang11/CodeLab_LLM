@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/Model-LLaMA2-blue?style=flat-square">
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square">
   <img src="https://img.shields.io/badge/Level-Advanced-orange?style=flat-square">
+  <a href="https://swanlab.cn/@kmno4/Happy-LLM/overview"><img src="https://raw.githubusercontent.com/SwanHubX/assets/main/badge1.svg" alt="SwanLab"></a>
 </p>
 
 
@@ -28,6 +29,7 @@
 
 在大语言模型迅猛发展的今天，很多人能使用模型，却未必真正理解它的“灵魂”。
 **CodeLab-LLaMA2** 希望成为一个桥梁，帮助你系统地掌握从**理论 → 实现 → 训练 → 应用**的完整流程。
+该模型仅仅只有 **0.05B** 参数量大小，让**单卡3090 24G也可以完成从0-1纯手撕预训练，自己写一个训练器**。
 
 本项目将详细讲解：
 
@@ -68,7 +70,7 @@
 | 🧭 前言                          | 项目背景、学习路径与环境配置                               | ✅  |
 | 🧩 第 1 章：整体架构                  | LLaMA2 结构概览、计算流与参数层次                     | ✅  |
 | 💻 第 2 章：动手实现                  | 逐组件实现 LLaMA2 关键模块（附代码）                   | ✅  |
-| 🔬 第 3 章：预训练流程                 | 数据准备、分布式训练、优化器、Loss 设计               | 🧩 |
+| 🔬 第 3 章：预训练流程                 | 数据准备、分布式训练、优化器、Loss 设计               | ✅ |
 | 🧑‍🏫 第 4 章：SFT 微调             | 有监督微调、PEFT、LoRA 实践                                 | 🧩 |
 | ⚙️ 第 5 章：推理与应用                 | 加载模型、推理接口、RAG 应用                          | 🧩 |
 | 🧠 第 6 章：优化与扩展                 | 模型压缩、量化、性能调优                              | 🧩 |
