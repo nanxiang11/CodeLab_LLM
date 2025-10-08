@@ -15,6 +15,7 @@
 
 📖 [在线阅读地址](https://icnckt01te7y.feishu.cn/wiki/ZdP3wZQ3CiGKSkkS2NacAzhmnid?from=from_copylink)
 ### *从架构到实现，从预训练到应用的完整大模型解析之旅*
+### *0.05B 大模型玩耍的飞起*
 </div>
 
 
