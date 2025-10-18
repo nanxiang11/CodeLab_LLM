@@ -16,7 +16,11 @@
 📖 [在线阅读地址](https://icnckt01te7y.feishu.cn/wiki/ZdP3wZQ3CiGKSkkS2NacAzhmnid?from=from_copylink)
 ### *从架构到实现，从预训练到应用的完整大模型解析之旅*
 ### *0.05B 大模型玩耍的飞起*
+*ModelScope 创空间体验地址：[🤖 创空间](https://www.modelscope.cn/studios/nanxiang1968/XY-MoE)*
+### *0.2B 自研大模型 星语-MoE系列*
 </div>
+![686f1ba8a5d8c93157a80df8adc3ab86](https://github.com/user-attachments/assets/c962bdff-5539-47c0-99ea-536b57dbd31d)
+
 
 
 
