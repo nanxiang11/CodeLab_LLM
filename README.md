@@ -19,7 +19,8 @@
 *ModelScope 创空间体验地址：[🤖 创空间](https://www.modelscope.cn/studios/nanxiang1968/XY-MoE)*
 ### *0.2B 自研大模型 星语-MoE系列*
 </div>
-![686f1ba8a5d8c93157a80df8adc3ab86](https://github.com/user-attachments/assets/c962bdff-5539-47c0-99ea-536b57dbd31d)
+
+![686f1ba8a5d8c93157a80df8adc3ab86](https://github.com/user-attachments/assets/68f7d70e-d710-48a8-bbb8-b20ce561bd42)
 
 
 
