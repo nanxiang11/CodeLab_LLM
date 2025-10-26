@@ -152,7 +152,4 @@ pip install -r requirements.txt
 👉 [https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans)
 
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=nanxiang11/CodeLab_LLM&type=Date)](https://www.star-history.com/?utm_source=chatgpt.com#nanxiang11/CodeLab_LLM&Date)
 
