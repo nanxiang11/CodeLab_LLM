@@ -29,6 +29,10 @@
 > 这里没有“复制粘贴”的黑盒实现，而是 **逐组件、逐细节** 地剖析每个设计背后的思考。
 > 让你不止会“跑通模型”，更能真正理解 “为什么要这样设计”。
 
+<img width="1077" height="768" alt="image" src="https://github.com/user-attachments/assets/0057cf0e-8ea8-4faa-9a5a-8c25ec1c2c5c" />
+
+
+
 ---
 
 ## 📘 项目简介
